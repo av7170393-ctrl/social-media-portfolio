@@ -1,0 +1,20 @@
+
+KEY INSIGHTS
+============
+1. Daily usage hours has a STRONG NEGATIVE correlation with Mental Health Index (r = -0.85)
+   and Academic GPA (r = -0.71) — heavier social media use tracks with worse outcomes.
+
+2. Students labeled 'Negative' impact use social media ~12.3 hrs/day on average,
+   vs only ~4.4 hrs/day for students labeled 'Beneficial'.
+
+3. Sleep Duration correlates strongly with Mental Health (r = 0.77) — sleep appears to be
+   a key mediating factor between usage and wellbeing.
+
+4. Higher Social_Comparison_Frequency ('Always') is associated with visibly higher
+   Perceived Stress Scores compared to 'Never'.
+
+5. Snapchat and TikTok users report the highest average daily usage (~5.3-5.5 hrs),
+   while X (Twitter) and LinkedIn users report the lowest (~5.1-5.3 hrs).
+
+6. Late-night social media users report lower average sleep quality scores than
+   non-late-night users.
